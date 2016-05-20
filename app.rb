@@ -2,8 +2,6 @@
 require 'rubygems'
 require 'sinatra'
 require 'sinatra/reloader'
-require 'pony'
-require 'haml'
 
 @@allFilesCheck = 1
 
